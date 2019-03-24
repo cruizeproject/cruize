@@ -15,7 +15,8 @@ PoW:
 
 FPoS:
 PoS start block: 1
-9% Yearly PoS
+20 CRUIZE Reward each POS block minted
+9% Yearly PoS after 0 POW structure
 
 
 
